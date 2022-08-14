@@ -1,0 +1,29 @@
+ .fatos{
+        color: rgb(54, 163, 197);
+    }
+
+    #trav{
+        color:rgb(255, 0, 0);
+    }
+
+    .p{
+     background-color:rgb(0, 255, 242) ; 
+     color:rgb(21, 0, 255);
+     height:26px;
+    }
+
+     #h3{
+    background-color: rgb(156 180 235);
+    padding: 15px;
+    border: 10px solid#000;
+    }
+
+    #cabecalho{
+    font-size: 4vh;
+    margin: 5vh;
+    border: 1vw solid#bd0000;
+	}
+    tbody{
+      border: 1vw solid#ff4747;
+      margin: 1vw;
+	 }

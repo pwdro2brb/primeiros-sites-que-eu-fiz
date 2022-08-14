@@ -1,0 +1,68 @@
+ .fatos{
+        color: rgb(234,223,223);
+    }
+
+       #trav{
+        color:rgb(255, 0, 0);
+    }
+
+       #web-history{
+    color: rgb(116 9 9);
+    height: 26px;
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+    }
+
+        #h3{
+    color: rgb(0, 255, 30);
+    height: 26px;
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+     font-family: "serif";
+    }
+
+#hh3{
+    color: rgb(0, 15, 230);
+    height: 26px;
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+     font-family: "serif";
+    }
+
+#ss, #sss {
+    background-color: #00b3b0;
+    height: 100%;
+    padding: 2vw;
+    position: relative;
+    justify-content: center;
+    align-items: baseline;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#título1{
+  display: block;
+    font-size: 2.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#aa{
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    justify-content: space-between;
+}
+
+a:-webkit-any-link {
+    color: #fafe06;
+    cursor: pointer;
+    text-decoration: none;
+}
